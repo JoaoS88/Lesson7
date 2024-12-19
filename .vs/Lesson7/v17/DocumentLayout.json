@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\proj\\Lesson7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|J:\\proj\\Lesson7\\Module7_Task3\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|solutionrelative:Module7_Task3\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|J:\\proj\\Lesson7\\Module7_Task3\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|solutionrelative:Module7_Task3\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|J:\\proj\\Lesson7\\Module7_Task3\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|solutionrelative:Module7_Task3\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|J:\\proj\\Lesson7\\Module7_Task3\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|solutionrelative:Module7_Task3\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|J:\\proj\\Lesson7\\Module7_Task3\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|solutionrelative:Module7_Task3\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|J:\\proj\\Lesson7\\Module7_Task3\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|solutionrelative:Module7_Task3\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|J:\\proj\\Lesson7\\Module7_Task3\\_Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|solutionrelative:Module7_Task3\\_Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|J:\\proj\\Lesson7\\Module7_Task3\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|solutionrelative:Module7_Task3\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|J:\\proj\\Lesson7\\Module7_Task3\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF44F84-1B4E-4BB4-B154-B916EF016CE0}|Module7_Task3\\Module7_Task3.vcxproj|solutionrelative:Module7_Task3\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 56,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson7\\Module7_Task3\\Player.cpp",
+              "RelativeDocumentMoniker": "Module7_Task3\\Player.cpp",
+              "ToolTip": "J:\\proj\\Lesson7\\Module7_Task3\\Player.cpp",
+              "RelativeToolTip": "Module7_Task3\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T19:24:04.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson7\\Module7_Task3\\Item.cpp",
+              "RelativeDocumentMoniker": "Module7_Task3\\Item.cpp",
+              "ToolTip": "J:\\proj\\Lesson7\\Module7_Task3\\Item.cpp",
+              "RelativeToolTip": "Module7_Task3\\Item.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T19:24:02.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson7\\Module7_Task3\\Game.cpp",
+              "RelativeDocumentMoniker": "Module7_Task3\\Game.cpp",
+              "ToolTip": "J:\\proj\\Lesson7\\Module7_Task3\\Game.cpp",
+              "RelativeToolTip": "Module7_Task3\\Game.cpp",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T19:24:02.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson7\\Module7_Task3\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Module7_Task3\\Enemy.cpp",
+              "ToolTip": "J:\\proj\\Lesson7\\Module7_Task3\\Enemy.cpp",
+              "RelativeToolTip": "Module7_Task3\\Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T19:24:01.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Main.cpp",
+              "DocumentMoniker": "J:\\proj\\Lesson7\\Module7_Task3\\_Main.cpp",
+              "RelativeDocumentMoniker": "Module7_Task3\\_Main.cpp",
+              "ToolTip": "J:\\proj\\Lesson7\\Module7_Task3\\_Main.cpp",
+              "RelativeToolTip": "Module7_Task3\\_Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T19:23:58.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "J:\\proj\\Lesson7\\Module7_Task3\\Player.h",
+              "RelativeDocumentMoniker": "Module7_Task3\\Player.h",
+              "ToolTip": "J:\\proj\\Lesson7\\Module7_Task3\\Player.h",
+              "RelativeToolTip": "Module7_Task3\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T19:23:56.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.h",
+              "DocumentMoniker": "J:\\proj\\Lesson7\\Module7_Task3\\Item.h",
+              "RelativeDocumentMoniker": "Module7_Task3\\Item.h",
+              "ToolTip": "J:\\proj\\Lesson7\\Module7_Task3\\Item.h",
+              "RelativeToolTip": "Module7_Task3\\Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T19:23:56.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "J:\\proj\\Lesson7\\Module7_Task3\\Game.h",
+              "RelativeDocumentMoniker": "Module7_Task3\\Game.h",
+              "ToolTip": "J:\\proj\\Lesson7\\Module7_Task3\\Game.h",
+              "RelativeToolTip": "Module7_Task3\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T19:23:54.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "J:\\proj\\Lesson7\\Module7_Task3\\Enemy.h",
+              "RelativeDocumentMoniker": "Module7_Task3\\Enemy.h",
+              "ToolTip": "J:\\proj\\Lesson7\\Module7_Task3\\Enemy.h",
+              "RelativeToolTip": "Module7_Task3\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T19:23:54.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
